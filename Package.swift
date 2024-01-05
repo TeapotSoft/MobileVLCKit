@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MobileVLCKit",
-            url: "https://github.com/TeapotSoft/MobileVLCKit/releases/download/3.5.1/MobileVLCKit.xcframework.zip",
-            checksum: "9b85fccafd95860c829a08a2223ab14a0cab9965ac4cd73b1111bb13f8b40ffb"
+            url: "https://github.com/TeapotSoft/MobileVLCKit/releases/download/4.0.0/MobileVLCKit.xcframework.zip",
+            checksum: "a9100c07ded16d96a41bc1af61706d1d16132731303b69fcbef6686d9ea237dc"
         )
     ]
 )
